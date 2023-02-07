@@ -1,4 +1,3 @@
-
 var fib = require("./fibonacci");
 
 console.log(fib.fibonacci(0) === 0)
