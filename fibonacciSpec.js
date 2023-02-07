@@ -2,6 +2,7 @@
 var fib = require("./fibonacci");
 
 console.log(fib.fibonacci(0) === 0)
+console.log(fib.fibonacci(1) === 1)
 console.log(fib.fibonacci(2) === 1)
 console.log(fib.fibonacci(5) === 5)
 console.log(fib.fibonacci(8) === 21)
